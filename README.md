@@ -3,7 +3,6 @@
 # BrickBreaker 🎮  
 **Infinite Brick Breaking Fun**
 
-![BrickBreaker](https://via.placeholder.com/800x400.png?text=BrickBreaker+Game+Banner)
 
 This project was built by [Joshua Porunnedath Biju](https://github.com/JOSHUAPBIJU) and [Joyel Porunnedath Biju](https://github.com/joyelpbiju).
 
