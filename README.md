@@ -24,6 +24,12 @@ This project was built by [Joshua Porunnedath Biju](https://github.com/JOSHUAPBI
 ---
 
 
+## 🗂️ Reports
+You can find detailed game insights and reports in the report file.
+
+---
+
+
 
 ## 🚀 Getting Started
 
