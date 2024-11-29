@@ -1,0 +1,55 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/mainbackground">
+
+    <TextView
+        android:id="@+id/heading"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="BrickBreaker"
+        android:textColor="#FFFFFF"
+        android:textStyle="bold"
+        android:textSize="52sp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="80dp" />
+
+    <Button
+        android:id="@+id/start_button"
+        android:layout_width="200dp"
+        android:layout_height="60dp"
+        android:text="Start Game"
+        android:textColor="#FFFFFF"
+        android:textStyle="bold"
+        android:textSize="18sp"
+        android:backgroundTint="#008000"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@id/heading"
+        android:layout_marginTop="40dp" />
+
+    <TextView
+        android:id="@+id/instructions_heading"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Here’s How to Play"
+        android:textColor="#FFFFFF"
+        android:textStyle="bold|italic"
+        android:textSize="18sp"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="20dp"
+        android:layout_below="@id/start_button"
+        android:layout_marginTop="120dp" />
+
+    <TextView
+        android:id="@+id/instructions"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="•\tTilt your device to move the paddle and deflect the ball.\n•\tHit and break bricks with the ball to increase your score—new rows appear as you progress.\n•\tAvoid missing the ball—if it reaches the bottom, the game is over."
+        android:textColor="#FFFFFF"
+        android:textStyle="bold"
+        android:textSize="15sp"
+        android:layout_marginStart="35dp"
+        android:layout_below="@id/instructions_heading"
+        android:layout_marginTop="10dp" />
+
+</RelativeLayout>

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BrickBreaker</string>
+    <string name="brick_breaker_title">BrickBreaker</string> <!-- Add this line -->
+    <string name="start_game">Start the Game</string>
+</resources>
